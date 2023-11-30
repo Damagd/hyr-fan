@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1574788493 source:f:\usb\lenguajes de programacion\proyectojuego\main.cpp
+	<iostream>
+	<Windows.h>
+	<MMSystem.h>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string.h>
+	<time.h>
+
+1575240369 source:d:\usb\lenguajes de programacion\proyectojuego\main.cpp
+	<iostream>
+	<Windows.h>
+	<MMSystem.h>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string.h>
+	<time.h>
+	"extra.h"
+
+1574903220 source:e:\usb\lenguajes de programacion\proyectojuego\main.cpp
+	<iostream>
+	<Windows.h>
+	<MMSystem.h>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string.h>
+	<time.h>
+
+1575240368 d:\usb\lenguajes de programacion\proyectojuego\extra.h
+
+1575240369 source:c:\users\ankealpc\desktop\lenguajes\proyectojuego\main.cpp
+	<iostream>
+	<Windows.h>
+	<MMSystem.h>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string.h>
+	<time.h>
+	"extra.h"
+
+1575240368 c:\users\ankealpc\desktop\lenguajes\proyectojuego\extra.h
+

@@ -1,0 +1,4 @@
+swordF.txt
+swordB.txt
+swordL.txt
+swordR.txt

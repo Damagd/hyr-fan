@@ -1,0 +1,9 @@
+pasto.txt
+arena.txt
+espada.txt
+puerta.txt
+agua.txt
+arbol.txt
+fuego.txt
+roca.txt
+paredpuerta.txt

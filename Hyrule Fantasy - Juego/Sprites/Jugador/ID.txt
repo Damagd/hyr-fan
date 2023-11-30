@@ -1,0 +1,14 @@
+playerF.txt
+playerFW.txt
+playerB.txt
+playerBW.txt
+playerL.txt
+playerLW.txt
+playerR.txt
+playerRW.txt
+llave.txt
+llave.txt
+vida.txt
+vida.txt
+rupia.txt
+rupia.txt

@@ -1,0 +1,13 @@
+bat1.txt
+bat2.txt
+eye1.txt
+eye2.txt
+slime1.txt
+slime2.txt
+snake1.txt
+snake2.txt
+fuego.txt
+fuego.txt
+jefe.txt
+jefe.txt
+emuerto.txt
